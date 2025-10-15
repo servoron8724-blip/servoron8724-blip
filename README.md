@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Привет! Я Сергей  
 
-<!--
-**servoron8724-blip/servoron8724-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web3 & DeFi Enthusiast  
+🪙 Участвую в airdrops, quests, testnets  
+🌐 Активен на: Zealy | Layer3 | Galxe | Gitcoin  
 
-Here are some ideas to get you started:
+**Мой кошелёк:** `0x6c649869544f124C3ce0966fe2b0e6AAe774aCFB`  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Что делаю сейчас
+- Изучаю DeFi-стратегии и фармлю альфа-поинты  
+- Участвую в тестнетах и квестах  
+- Веду учёт активности для Gitcoin Passport  
+
+## 📫 Связь
+- GitHub: [servoron8724-blip](https://github.com/servoron8724-blip)
+- Email: servoron8724@gmail.com
+
+> Обновлено: 2025-10-15
+
+
+
