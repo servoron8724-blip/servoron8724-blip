@@ -14,7 +14,7 @@
 ## 📫 Связь
 - GitHub: [servoron8724-blip](https://github.com/servoron8724-blip)
 - Email: servoron8724@gmail.com
-- X: https://x.com/voronin_sergii> Обновлено: 2025-10-15
+- X: https://x.com/voronin_sergii Обновлено: 2025-10-15
 
 
 
